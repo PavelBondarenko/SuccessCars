@@ -38,9 +38,10 @@
 
 <label for="phone">Phone</label><input  id="phone" maxlength="40" name="phone" size="20" type="text" /><br>
 
-Product:<select  id="00N5j000000pTbO" name="00N5j000000pTbO" title="Product"><option value="">--None--</option><option value="Renault Logan">Renault Logan</option>
-<option value="Renault Logan Stepway">Renault Logan Stepway</option>
-<option value="Renault Sandero">R001C1</option>
+Product:<select  id="00N5j000000pTbO" name="00N5j000000pTbO" title="Product"><option value="">--None--</option>
+<option value="Renault Logan">R001C1</option>
+<option value="Renault Logan Stepway">R002C2</option>
+<option value="Renault Sandero">Renault Sandero</option>
 <option value="Renault Sandero Stepway">Renault Sandero Stepway</option>
 <option value="K7M">K7M</option>
 <option value="K4M">K4M</option>
