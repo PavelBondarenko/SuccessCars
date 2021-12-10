@@ -32,17 +32,17 @@ textarea {
   overflow: auto;
 }
 
-#container {
+form {
   border: solid 3px #474544;
   max-width: 768px;
   margin: 60px auto;
   position: relative;
 }
 
-form {
+/* form {
   padding: 37.5px;
   margin: 50px 0;
-}
+} */
 
 h1 {
   color: #474544;
