@@ -70,7 +70,7 @@ Product:<select  id="00N5j000000pTbO" name="00N5j000000pTbO" title="Product"><op
 <option value="VAG009A1">Carpets Volkswagen</option>
 <option value="VAG010A2">Carpets Skoda</option>
 <option value="L005A1">Carpets Lada</option>
-<option value="MI001A1">MI001A1</option>
+<option value="MI001A1">Phone holder Xiaomi</option>
 </select><br>
 
 <div class="g-recaptcha" data-sitekey="6LcZn4AdAAAAAOlrL-IeD55FyZ6m1o0w81AOLNm2"></div><br>
