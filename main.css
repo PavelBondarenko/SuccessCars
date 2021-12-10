@@ -40,8 +40,9 @@ textarea {
 } */
 
 form {
-  padding: 37.5px;
-  margin: 50px 0;
+  max-width: 768px;
+  margin: 60px auto;
+  position: relative;
 }
 
 h1 {
