@@ -69,8 +69,8 @@ Product:<select  id="00N5j000000pTbO" name="00N5j000000pTbO" title="Product"><op
 <option value="Carpets Kia">Carpets Kia</option>
 <option value="Carpets Volkswagen">Carpets Volkswagen</option>
 <option value="Carpets Skoda">Carpets Skoda</option>
-<option value="Carpets Lada">Carpets Lada</option>
-<option value="Phone holder Xiaomi">Phone holder Xiaomi</option>
+<option value="L005A1">Carpets Lada</option>
+<option value="Phone holder Xiaomi">MI001A1</option>
 </select><br>
 
 <div class="g-recaptcha" data-sitekey="6LcZn4AdAAAAAOlrL-IeD55FyZ6m1o0w81AOLNm2"></div><br>
