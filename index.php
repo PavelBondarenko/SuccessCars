@@ -39,38 +39,38 @@
 <label for="phone">Phone</label><input  id="phone" maxlength="40" name="phone" size="20" type="text" /><br>
 
 Product:<select  id="00N5j000000pTbO" name="00N5j000000pTbO" title="Product"><option value="">--None--</option>
-<option value="Renault Logan">R001C1</option>
-<option value="Renault Logan Stepway">R002C2</option>
-<option value="Renault Sandero">Renault Sandero</option>
-<option value="Renault Sandero Stepway">Renault Sandero Stepway</option>
-<option value="K7M">K7M</option>
-<option value="K4M">K4M</option>
-<option value="H4M">H4M</option>
-<option value="Kia Rio">Kia Rio</option>
-<option value="Kia Rio X-Line">Kia Rio X-Line</option>
-<option value="Hyundai Accent">Hyundai Accent</option>
-<option value="Hyundai Solaris">Hyundai Solaris</option>
-<option value="G4LC">G4LC</option>
-<option value="G4FG">G4FG</option>
-<option value="Volkswagen Polo Sedan">Volkswagen Polo Sedan</option>
-<option value="Volkswagen Polo 2021">Volkswagen Polo 2021</option>
-<option value="Skoda Rapid">Skoda Rapid</option>
-<option value="CZCA">CZCA</option>
-<option value="CFW">CFW</option>
-<option value="CWVA">CWVA</option>
-<option value="CFNA">CFNA</option>
-<option value="CFNB">CFNB</option>
-<option value="Lada Vesta">Lada Vesta</option>
-<option value="Lada Xray">Lada Xray</option>
-<option value="VAZ-21179">VAZ-21179</option>
-<option value="VAZ-21129">VAZ-21129</option>
-<option value="Carpets Renault">Carpets Renault</option>
-<option value="Carpets Hyundai">Carpets Hyundai</option>
-<option value="Carpets Kia">Carpets Kia</option>
-<option value="Carpets Volkswagen">Carpets Volkswagen</option>
-<option value="Carpets Skoda">Carpets Skoda</option>
+<option value="R001C1">Renault Logan</option>
+<option value="R002C2">Renault Logan Stepway</option>
+<option value="R003C3">Renault Sandero</option>
+<option value="R004C4">Renault Sandero Stepway</option>
+<option value="R005E1">K7M</option>
+<option value="R006E2">K4M</option>
+<option value="R007E3">H4M</option>
+<option value="HK001C1">Kia Rio</option>
+<option value="HK002C2">Kia Rio X-Line</option>
+<option value="HK003C3">Hyundai Accent</option>
+<option value="HK004C4">Hyundai Solaris</option>
+<option value="HK005E1">G4LC</option>
+<option value="HK006E2">G4FG</option>
+<option value="VAG001C1">Volkswagen Polo Sedan</option>
+<option value="VAG002C2">Volkswagen Polo 2021</option>
+<option value="VAG003C3">Skoda Rapid</option>
+<option value="VAG004E1">CZCA</option>
+<option value="VAG005E2">CFW</option>
+<option value="VAG006E3">CWVA</option>
+<option value="VAG007E4">CFNA</option>
+<option value="VAG008E5">CFNB</option>
+<option value="L001C1">Lada Vesta</option>
+<option value="L002C2">Lada Xray</option>
+<option value="L003E1">VAZ-21179</option>
+<option value="L004E2">VAZ-21129</option>
+<option value="R008A1">Carpets Renault</option>
+<option value="HK007A1">Carpets Hyundai</option>
+<option value="HK008A2">Carpets Kia</option>
+<option value="VAG009A1">Carpets Volkswagen</option>
+<option value="VAG010A2">Carpets Skoda</option>
 <option value="L005A1">Carpets Lada</option>
-<option value="Phone holder Xiaomi">MI001A1</option>
+<option value="MI001A1">MI001A1</option>
 </select><br>
 
 <div class="g-recaptcha" data-sitekey="6LcZn4AdAAAAAOlrL-IeD55FyZ6m1o0w81AOLNm2"></div><br>
