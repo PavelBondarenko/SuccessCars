@@ -29,7 +29,7 @@
 <!--  value="bandarenka.pavel2002@gmail.com">                                 -->
 <!--  ----------------------------------------------------------------------  -->
 
-<label for="company">Company</label><input  id="company" maxlength="40" name="company" size="20" type="text" /><br>
+<label for="company">Company</label><input  id="company" maxlength="40" name="company" size="20" type="text" required/><br>
 
 <label for="first_name">First Name</label><input  id="first_name" maxlength="40" name="first_name" size="20" type="text" /><br>
 
