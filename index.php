@@ -29,17 +29,17 @@
 <!--  value="bandarenka.pavel2002@gmail.com">                                 -->
 <!--  ----------------------------------------------------------------------  -->
 
-<label for="company">Company</label><input  id="company" maxlength="40" name="company" size="20" type="text" required/><br>
+<label for="company">Company</label><input  id="company" maxlength="40" name="company" size="20" type="text" required /><br>
 
-<label for="first_name">First Name</label><input  id="first_name" maxlength="40" name="first_name" size="20" type="text" /><br>
+<label for="first_name">First Name</label><input  id="first_name" maxlength="40" name="first_name" size="20" type="text" required /><br>
 
-<label for="last_name">Last Name</label><input  id="last_name" maxlength="80" name="last_name" size="20" type="text" /><br>
+<label for="last_name">Last Name</label><input  id="last_name" maxlength="80" name="last_name" size="20" type="text" required /><br>
 
-<label for="email">Email</label><input  id="email" maxlength="80" name="email" size="20" type="text" /><br>
+<label for="email">Email</label><input  id="email" maxlength="80" name="email" size="20" type="text" required /><br>
 
-<label for="phone">Phone</label><input  id="phone" maxlength="40" name="phone" size="20" type="text" /><br>
+<label for="phone">Phone</label><input  id="phone" maxlength="40" name="phone" size="20" type="text" required /><br>
 
-Product:<select  id="00N5j000000pTbO" name="00N5j000000pTbO" title="Product"><option value="">--None--</option>
+Product:<select  id="00N5j000000pTbO" name="00N5j000000pTbO" title="Product" required><option value="">--None--</option>
 <option value="R001C1">Renault Logan</option>
 <option value="R002C2">Renault Logan Stepway</option>
 <option value="R003C3">Renault Sandero</option>
